@@ -6,9 +6,13 @@
 
 ## "Me, in one sentence"
 
-| Birthday      |Favorite Color | Favorite Food |Pinneaple on pizza |
-| :-------------|:-------------:|:-------------:|		---:|
-| 14/05		|	Blue	|	Fries	|	-[x]	    |
+| Birthday      	|Answers 		|
+| :-------------	|	--------------:	|
+| Birthday		|	14/05		|
+| Favorite Color	|	Blue		|
+| Favorite Food		|	Fries		|
+| Pinneapple on pizza	|	Yes [x] No []	|
+
 
 
 ## Hobbies
@@ -28,4 +32,4 @@ I worked in a covid-19 prevention call-center and contracted covid there.
 ### Karma is a bitch...
 
 
-    << Samantha Ramakers || YOUR NAME || Steeve Boulanger >>
+    << Samantha Ramakers || Samuel Letocart || [Steeve Boulanger] >>
