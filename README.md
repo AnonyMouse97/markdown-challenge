@@ -11,7 +11,7 @@
 | Birthday		|	14/05		|
 | Favorite Color	|	Blue		|
 | Favorite Food		|	Fries		|
-| Pinneapple on pizza	|	Yes [x] No []	|
+| Pinneapple on pizza	|	 [x] Yes [] No	|
 
 
 
@@ -32,4 +32,4 @@ I worked in a covid-19 prevention call-center and contracted covid there.
 ### Karma is a bitch...
 
 
-    << Samantha Ramakers || Samuel Letocart || ![Steeve Boulanger] >>
+    << Samantha Ramakers || Samuel Letocart || [Steeve Boulanger]https://github.com/SteeveDEV-web/markdown_challenge >>
