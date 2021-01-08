@@ -32,4 +32,4 @@ I worked in a covid-19 prevention call-center and contracted covid there.
 ### Karma is a bitch...
 
 
-    << Samantha Ramakers || Samuel Letocart || [Steeve Boulanger] >>
+    << Samantha Ramakers || Samuel Letocart || ![Steeve Boulanger] >>
